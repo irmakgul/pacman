@@ -1,0 +1,17 @@
+# Java build files
+*.class
+*.jar
+*.war
+*.ear
+
+# IntelliJ IDEA
+.idea/
+*.iml
+out/
+
+# High score data file
+highscores.dat
+
+# System files
+.DS_Store
+Thumbs.db
